@@ -2,8 +2,8 @@
 
 TEST PROJECT
 
-COLUMNS:
-  backlog
-  doing
-  review
+COLUMNS:<br>
+  backlog <br>
+  doing <br>
+  review <br>
   complete
